@@ -38,21 +38,21 @@ Talks should:
 
 * Welcome, you all belong here!
 * What is PyLadies
- * Events: Talks, Tutorials, Hands-on workshop
+    * Events: Talks, Tutorials, Hands-on workshop
 * Code of Conduct review
- * Please read [Code of Conduct](Code_of_conduct.md)!
- * Highlight common mistakes
-  * Well-Actuallys
-  * Backseat Driving
-  * Subtle -isms
-  * Feigning Surprise
- * Any concerns or violations can be reported to vancouver@pyladies.com or anonymously via MeetUp’s About page.
- * Mistakes happen, and we are not here to blame and shame, but to learn and grow.
+    * Please read [Code of Conduct](Code_of_conduct.md)!
+    * Highlight common mistakes
+        * Well-Actuallys
+        * Backseat Driving
+        * Subtle -isms
+        * Feigning Surprise
+    * Any concerns or violations can be reported to vancouver@pyladies.com or anonymously via MeetUp’s About page.
+    * Mistakes happen, and we are not here to blame and shame, but to learn and grow.
 * Name tags and Photos (red means no photos)
 * Community Annoucements
- * Upcoming conferences
- * Upcoming conference proposal deadlines
- * Other useful meetups happening
+    * Upcoming conferences
+    * Upcoming conference proposal deadlines
+    * Other useful meetups happening
 * Thank sponsors of food & space
 
 ## Closing remarks
@@ -60,7 +60,7 @@ Talks should:
 * Thank space & food sponsors
 * Thank everyone for showing up
 * Announce next meetup
- * Ask for speakers if relevant
+    * Ask for speakers if relevant
 
 
 # License & Inspiration
