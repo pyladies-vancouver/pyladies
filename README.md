@@ -60,6 +60,7 @@ Our requirements include:
 - [ ] Seating for up to 30
 - [ ] Accessible (wheelchair etc)
 - [ ] Near transit
+- [ ] Doesn't need front door runner, can get in via unlocked door or buzzer (optional)
 - For talk nights:
     - [ ] Projector
     - [ ] Mic (optional)
