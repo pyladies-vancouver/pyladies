@@ -27,9 +27,41 @@ Talks can be any length, from a 5 min lightning talk to a 30 min practice of a c
 
 Talks should:
 
-* Be related to the tech industry, preferably Python
-* Not a pitch, marketing or recruitment tool
-* Follow Code of Conduct
+- [ ] Be related to the tech industry, preferably Python
+- [ ] Not a pitch, marketing or recruitment tool
+- [ ] Follow Code of Conduct
+
+
+## For Sponsors
+
+### Space
+
+Thanks for offering to host PyLadies!
+Our requirements include:
+
+- [ ] Wifi
+- [ ] Washrooms
+- [ ] Plates, glasses, cutlery for dinner
+- [ ] Seating for up to 30
+- [ ] Accessible (wheelchair etc)
+- [ ] Near transit
+- For talk nights:
+    - [ ] Projector
+    - [ ] Mic (optional)
+    - [ ] Podium (optional)
+- For Code Jams:
+    - [ ] Tables to sit at
+    - [ ] Lots of power outlets
+
+### Food
+
+When ordering food, remember to include the following options:
+
+* Meat
+* Vegetarian
+* Gluten free, if possible
+* Dairy free, if possible
+* Vegan, if possible
 
 
 ## Running the Meetup
