@@ -11,6 +11,21 @@ We expect everyone attending our meetups to abide by our [Code of Conduct](Code_
 [PyLadies](http://www.pyladies.com/) is an international mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community.
 Our mission is to promote, educate and advance a diverse Python community through outreach, education, conferences, events and social gatherings.
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Social Media](#social-media)
+- [For Speakers](#for-speakers)
+- [For Sponsors](#for-sponsors)
+  - [Space](#space)
+  - [Food](#food)
+- [Running the Meetup](#running-the-meetup)
+  - [Opening remarks](#opening-remarks)
+  - [Closing remarks](#closing-remarks)
+- [License & Inspiration](#license-&-inspiration)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Social Media
 
@@ -75,7 +90,6 @@ When ordering food, remember to include the following options:
     * Please read [Code of Conduct](Code_of_conduct.md)!
     * Highlight common mistakes
         * Well-Actuallys
-        * Backseat Driving
         * Subtle -isms
         * Feigning Surprise
     * Any concerns or violations can be reported to vancouver@pyladies.com or anonymously via MeetUp’s About page.
@@ -87,7 +101,7 @@ When ordering food, remember to include the following options:
     * Other useful meetups happening
 * Thank sponsors of food & space
 
-## Closing remarks
+### Closing remarks
 
 * Thank space & food sponsors
 * Thank everyone for showing up
@@ -95,7 +109,7 @@ When ordering food, remember to include the following options:
     * Ask for speakers if relevant
 
 
-# License & Inspiration
+## License & Inspiration
 
 This repository is licensed [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/).
 Inspired by [Code & Coffee Vancouver](https://github.com/Code-and-Coffee-YVR/how-to-organize)
