@@ -71,6 +71,9 @@ Our requirements include:
 
 ### Food
 
+For food sponsorship, we budget around $8/person for dinner.
+We usually have 15-30 people show up, and assume half of the RSVPs on Meetup will attend.
+
 When ordering food, remember to include the following options:
 
 * Meat
