@@ -74,6 +74,12 @@ Our requirements include:
 For food sponsorship, we budget around $8/person for dinner.
 We usually have 15-30 people show up, and assume half of the RSVPs on Meetup will attend.
 
+There are 3 options for handling food:
+
+* PyLadies organizer does the ordering and the sponsor reimburses
+* PyLadies organizer plans the order and the sponsor pays
+* Sponsor handles ordering and payment
+
 When ordering food, remember to include the following options:
 
 * Meat
