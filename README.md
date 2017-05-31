@@ -68,6 +68,7 @@ Our requirements include:
 - For Code Jams:
     - [ ] Tables to sit at
     - [ ] Lots of power outlets
+- [ ] Twitter handle (optional, so we can thank you on Twitter for sponsoring)
 
 ### Food
 
