@@ -89,6 +89,7 @@ When ordering food, remember to include the following options:
 * Dairy free, if possible
 * Vegan, if possible
 
+(optional) Share your Twitter handle with us, so we can thank you on Twitter for sponsoring.
 
 ## Running the Meetup
 
