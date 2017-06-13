@@ -93,6 +93,13 @@ When ordering food, remember to include the following options:
 
 ## Running the Meetup
 
+### Pre-meetup preparation
+
+- [ ] order food
+- [ ] nametags
+- [ ] print door sign
+
+
 ### Opening remarks
 
 * Welcome, you all belong here!
