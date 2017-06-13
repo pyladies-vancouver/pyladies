@@ -101,9 +101,9 @@ When ordering food, remember to include the following options:
 
 ### Pre-meetup preparation
 
-- [ ] order food
-- [ ] nametags
-- [ ] print door sign
+- [ ] Order food
+- [ ] Have Nametags
+- [ ] Print door sign
 
 
 ### Opening remarks
