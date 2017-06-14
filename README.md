@@ -21,6 +21,7 @@ Our mission is to promote, educate and advance a diverse Python community throug
   - [Space](#space)
   - [Food](#food)
 - [Running the Meetup](#running-the-meetup)
+  - [Pre-meetup preparation](#pre-meetup-preparation)
   - [Opening remarks](#opening-remarks)
   - [Closing remarks](#closing-remarks)
 - [License & Inspiration](#license-&-inspiration)
