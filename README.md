@@ -46,6 +46,12 @@ Talks should:
 - [ ] Not a pitch, marketing or recruitment tool
 - [ ] Follow Code of Conduct
 
+Let us know if you have any preferences, such as:
+
+- Are you taking any questions?
+- Are you ok with people raising hands during the talk, or wait until the end?
+- Do you have a Twitter account?
+- Ok to be photographed?
 
 ## For Sponsors
 
@@ -95,9 +101,9 @@ When ordering food, remember to include the following options:
 
 ### Pre-meetup preparation
 
-- [ ] order food
-- [ ] nametags
-- [ ] print door sign
+- [ ] Order food
+- [ ] Have Nametags
+- [ ] Print door sign
 
 
 ### Opening remarks
