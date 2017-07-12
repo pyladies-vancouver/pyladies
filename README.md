@@ -134,6 +134,10 @@ When ordering food, remember to include the following options:
 * Announce next meetup
     * Ask for speakers if relevant
 
+### Funding the MeetUp
+The PSF can help cover the MeetUp fees. Apply for a grant by following these steps:
+[Python.org](https://www.python.org/psf/grants/)
+[PyFound](http://pyfound.blogspot.ca/search?q=meetup)
 
 ## License & Inspiration
 
