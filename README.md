@@ -20,6 +20,9 @@ Our mission is to promote, educate and advance a diverse Python community throug
 - [For Sponsors](#for-sponsors)
   - [Space](#space)
   - [Food](#food)
+- [Meetup Organization](#meetup-organization)
+  - [Funding the MeetUp](#funding-the-meetup)
+  - [Arranging a Meetup](#arranging-a-meetup)
 - [Running the Meetup](#running-the-meetup)
   - [Pre-meetup preparation](#pre-meetup-preparation)
   - [Opening remarks](#opening-remarks)
@@ -50,9 +53,10 @@ Talks should:
 Let us know if you have any preferences, such as:
 
 - Are you taking any questions?
-- Are you ok with people raising hands during the talk, or wait until the end?
-- Do you have a Twitter account?
-- Ok to be photographed?
+- Are you OK with people raising hands during the talk, or should they wait until the end?
+- Do you have a Twitter account so we can credit you?
+- Are you OK to be photographed?
+
 
 ## For Sponsors
 
@@ -62,6 +66,7 @@ Thanks for offering to host PyLadies!
 Our requirements include:
 
 - [ ] Wifi
+    - [ ] WiFi allows more than HTTP (eg SSH, rsync, FTP etc)
 - [ ] Washrooms
 - [ ] Plates, glasses, cutlery for dinner
 - [ ] Seating for up to 30
@@ -81,6 +86,7 @@ Our requirements include:
 
 For food sponsorship, we budget around $8/person for dinner.
 We usually have 15-30 people show up, and assume half of the RSVPs on Meetup will attend.
+See also [pizza.py](https://github.com/BostonPython/fingertools/blob/master/pizza.py)
 
 There are 3 options for handling food:
 
@@ -98,6 +104,20 @@ When ordering food, remember to include the following options:
 
 (optional) Share your Twitter handle with us, so we can thank you on Twitter for sponsoring.
 
+## Meetup Organization
+
+### Funding the MeetUp
+
+The PSF can help cover the Meetup fees. Apply for a grant by following these steps:
+
+- [Python.org](https://www.python.org/psf/grants/)
+- [PyFound](http://pyfound.blogspot.ca/search?q=meetup)
+
+### Arranging a Meetup
+
+- [ ] Announce the Meetup at least a week in advance, preferably 2 weeks
+
+
 ## Running the Meetup
 
 ### Pre-meetup preparation
@@ -111,16 +131,19 @@ When ordering food, remember to include the following options:
 
 * Welcome, you all belong here!
 * What is PyLadies
-    * Events: Talks, Tutorials, Hands-on workshop
+    * Events: Talks, Tutorials, Hands-on workshops
 * Code of Conduct review
     * Please read [Code of Conduct](Code_of_conduct.md)!
     * Highlight common mistakes
-        * Well-Actuallys
-        * Subtle -isms
-        * Feigning Surprise
+        * Well-Actuallys - minor corrections irrelevant to the speaker's main point
+        * Subtle -isms - "So easy even my grandmother could do it!"
+        * Feigning Surprise - "You don't know about X?!"
     * Any concerns or violations can be reported to vancouver@pyladies.com or anonymously via MeetUp’s About page.
     * Mistakes happen, and we are not here to blame and shame, but to learn and grow.
-* Name tags and Photos (red means no photos)
+* Logistics
+    * Name tags and Photos (red means no photos)
+    * Bathrooms locations
+    * WiFi password
 * Community Annoucements
     * Upcoming conferences
     * Upcoming conference proposal deadlines
@@ -134,10 +157,6 @@ When ordering food, remember to include the following options:
 * Announce next meetup
     * Ask for speakers if relevant
 
-### Funding the MeetUp
-The PSF can help cover the MeetUp fees. Apply for a grant by following these steps:
-[Python.org](https://www.python.org/psf/grants/)
-[PyFound](http://pyfound.blogspot.ca/search?q=meetup)
 
 ## License & Inspiration
 
