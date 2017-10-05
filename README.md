@@ -1,10 +1,14 @@
 # PyLadies Vancouver
 
 Hello and welcome to PyLadies!
+
 PyLadies Vancouver is a Python programming group for women in the Vancouver area.
+We welcome experienced programmers, people who have never programmed before, and everyone in between.
 Meetups are organized through [Meetup.com](https://www.meetup.com/PyLadies-Vancouver/).
 
-Persons with any gender identity are welcome, and should respect that PyLadies Vancouver must be a place where women's voices are centered.
+At PyLadies we welcome all women, inclusive of trans women.
+Further we would like to extend a special invitation to nonbinary folks, as many (but not all) of the oppressions facing women in our industry are also experienced by nonbinary individuals.
+Persons with any gender identity are welcome to attend our meetups, but should respect that PyLadies Vancouver is a place where women's voices are centered.
 
 We expect everyone attending our meetups to abide by our [Code of Conduct](Code_of_conduct.md).
 
