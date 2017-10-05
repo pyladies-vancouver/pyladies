@@ -118,6 +118,12 @@ The PSF can help cover the Meetup fees. Apply for a grant by following these ste
 - [ ] Announce the Meetup at least a week in advance, preferably 2 weeks
 
 
+### References
+
+* [PyLadies Kit](http://kit.pyladies.com/en/latest/index.html)
+* [Code of Conduct Handbook](https://www.coc-handbook.com/)
+
+
 ## Running the Meetup
 
 ### Pre-meetup preparation
